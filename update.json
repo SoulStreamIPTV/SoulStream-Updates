@@ -1,0 +1,14 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "title": "Soul Stream 1.0.0",
+  "description": [
+    "Primera versión oficial de Soul Stream",
+    "Reproductor IPTV",
+    "Películas y Series",
+    "Zona Deportiva",
+    "Sistema Soulie"
+  ],
+  "apkUrl": "https://github.com/SoulStreamIPTV/SoulStream-Updates/releases/download/v1.0.0/app-release.apk",
+  "mandatory": false
+}
