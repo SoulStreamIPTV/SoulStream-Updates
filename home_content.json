@@ -8,7 +8,7 @@
     "badge": "EN VIVO",
     "actionLabel": "Ver Deportes",
     "action": "SPORTS",
-    "active": true,
+    "active": false,
     "order": 1
   },
   {
