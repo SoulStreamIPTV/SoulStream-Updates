@@ -1,41 +1,50 @@
-{
-  "version": 1,
-  "heroBanners": [
-    {
-      "id": "banner_01",
-      "title": "Soul Stream",
-      "subtitle": "Tu entretenimiento en un solo lugar",
-      "imageUrl": "https://raw.githubusercontent.com/SoulStreamIPTV/SoulStream-Updates/main/banners/home_01.webp",
-      "type": "PROMOTION",
-      "badge": "SOUL STREAM",
-      "actionLabel": "Explorar",
-      "action": "HOME",
-      "active": true,
-      "order": 1
-    },
-    {
-      "id": "banner_02",
-      "title": "Zona Deportiva",
-      "subtitle": "Disfruta eventos en vivo",
-      "imageUrl": "https://raw.githubusercontent.com/SoulStreamIPTV/SoulStream-Updates/main/banners/home_02.webp",
-      "type": "LIVE_EVENT",
-      "badge": "EN VIVO",
-      "actionLabel": "Ver eventos",
-      "action": "SPORTS",
-      "active": true,
-      "order": 2
-    },
-    {
-      "id": "banner_03",
-      "title": "Películas y Series",
-      "subtitle": "Nuevo contenido disponible",
-      "imageUrl": "https://raw.githubusercontent.com/SoulStreamIPTV/SoulStream-Updates/main/banners/home_03.webp",
-      "type": "PROMOTION",
-      "badge": "NUEVO",
-      "actionLabel": "Explorar",
-      "action": "MOVIES",
-      "active": true,
-      "order": 3
-    }
-  ]
-}
+[
+  {
+    "id": "banner_champions_2026",
+    "title": "UEFA Champions League",
+    "subtitle": "Cuartos de Final en vivo y en exclusiva por Soul Stream",
+    "imageUrl": "https://raw.githubusercontent.com/SoulStreamIPTV/SoulStream-Updates/main/banners/banner_champions.webp",
+    "type": "LIVE_EVENT",
+    "badge": "EN VIVO",
+    "actionLabel": "Ver Deportes",
+    "action": "SPORTS",
+    "active": true,
+    "order": 1
+  },
+  {
+    "id": "banner_soulie_vip",
+    "title": "Experiencia Soul Stream VIP",
+    "subtitle": "Acceso ilimitado a más de 10,000 canales y estrenos 4K",
+    "imageUrl": "https://raw.githubusercontent.com/SoulStreamIPTV/SoulStream-Updates/main/banners/banner_soulie_vip.webp",
+    "type": "PROMOTION",
+    "badge": "DESTACADO",
+    "actionLabel": "Ver Canales",
+    "action": "TV",
+    "active": true,
+    "order": 2
+  },
+  {
+    "id": "banner_estrenos_taquilla",
+    "title": "Estrenos de Taquilla",
+    "subtitle": "Disfruta de las mejores películas del mes en máxima calidad",
+    "imageUrl": "https://raw.githubusercontent.com/SoulStreamIPTV/SoulStream-Updates/main/banners/banner_estrenos.webp",
+    "type": "MOVIE",
+    "badge": "4K ULTRA HD",
+    "actionLabel": "Ver Películas",
+    "action": "MOVIES",
+    "active": true,
+    "order": 3
+  },
+  {
+    "id": "banner_maraton_series",
+    "title": "Maratón de Series",
+    "subtitle": "Temporadas completas disponibles para disfrutar",
+    "imageUrl": "https://raw.githubusercontent.com/SoulStreamIPTV/SoulStream-Updates/main/banners/banner_series.webp",
+    "type": "SERIES",
+    "badge": "NUEVAS TEMPORADAS",
+    "actionLabel": "Ver Series",
+    "action": "SERIES",
+    "active": true,
+    "order": 4
+  }
+]
