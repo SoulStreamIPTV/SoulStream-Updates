@@ -1,13 +1,14 @@
 {
   "version": 1,
-
+  
   "maintenance": false,
   "maintenanceMessage": "",
 
   "features": {
     "sportsZone": true,
     "homeBanners": true,
-    "catalogSync": true
+    "catalogSync": true,
+    "search": true
   },
 
   "messages": {
@@ -15,5 +16,10 @@
     "showAnnouncement": false
   },
 
-  "minimumSupportedVersion": 1
+  "minimumSupportedVersion": 1,
+
+  "appBehavior": {
+    "forceUpdateCheck": true,
+    "allowOfflineCache": true
+  }
 }
