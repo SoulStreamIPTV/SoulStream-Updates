@@ -1,0 +1,19 @@
+{
+  "version": 1,
+
+  "maintenance": false,
+  "maintenanceMessage": "",
+
+  "features": {
+    "sportsZone": true,
+    "homeBanners": true,
+    "catalogSync": true
+  },
+
+  "messages": {
+    "announcement": "",
+    "showAnnouncement": false
+  },
+
+  "minimumSupportedVersion": 1
+}
