@@ -1,1 +1,41 @@
-.
+{
+  "version": 1,
+  "heroBanners": [
+    {
+      "id": "banner_01",
+      "title": "Soul Stream",
+      "subtitle": "Tu entretenimiento en un solo lugar",
+      "imageUrl": "https://raw.githubusercontent.com/SoulStreamIPTV/SoulStream-Updates/main/banners/home_01.webp",
+      "type": "PROMOTION",
+      "badge": "SOUL STREAM",
+      "actionLabel": "Explorar",
+      "action": "HOME",
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "banner_02",
+      "title": "Zona Deportiva",
+      "subtitle": "Disfruta eventos en vivo",
+      "imageUrl": "https://raw.githubusercontent.com/SoulStreamIPTV/SoulStream-Updates/main/banners/home_02.webp",
+      "type": "LIVE_EVENT",
+      "badge": "EN VIVO",
+      "actionLabel": "Ver eventos",
+      "action": "SPORTS",
+      "active": true,
+      "order": 2
+    },
+    {
+      "id": "banner_03",
+      "title": "Películas y Series",
+      "subtitle": "Nuevo contenido disponible",
+      "imageUrl": "https://raw.githubusercontent.com/SoulStreamIPTV/SoulStream-Updates/main/banners/home_03.webp",
+      "type": "PROMOTION",
+      "badge": "NUEVO",
+      "actionLabel": "Explorar",
+      "action": "MOVIES",
+      "active": true,
+      "order": 3
+    }
+  ]
+}
