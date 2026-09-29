@@ -11,6 +11,6 @@
     "Mejoras generales de estabilidad y rendimiento"
     
   "apkUrl": "https://github.com/SoulStreamIPTV/SoulStream-Updates/releases/download/v1.0.2/app-release.apk",
-  "mandatory": true,
+  "mandatory": false,
   "minSupportedVersion": 1
 }
